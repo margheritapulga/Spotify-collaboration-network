@@ -17,3 +17,6 @@ ters, largely aligned with genre and industry-driven patterns.
 
 Detailed description and results of this analysis are in the report.
 
+Authors: 
+Martina La Rosa
+Margherita Pulga
