@@ -14,3 +14,5 @@ The analysis then shifts toward a genre-based perspective and we investigate gen
 Finally, we conduct an examination of the network's community structure using the Louvain community detection algorithm in order to understan the underlying organization of music collaborations.
 Results show that the netwrok is scale-free, with a power law degree distribution and highly popular artists acting as central hubs. Louvain community detection reveals well-defined collaboration clus-
 ters, largely aligned with genre and industry-driven patterns.
+
+Detailed description and results of this analysis are in the report.
